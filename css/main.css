@@ -205,3 +205,32 @@ button:hover {
     height: 10px;
     background: linear-gradient(165deg, #272840 0%, #8b3c70 60%, #BF505A 90%);
 }
+
+/* Media queries */
+@media only screen and (max-width: 700px) {
+    .card-wrapper {
+        align-items: center;
+    }
+
+    .card {
+        flex-direction: column;
+    }
+
+    .web-screenshot {
+        display: none;
+    }
+
+    .card-info {
+        max-width: 600px;
+        position: relative;
+    }
+
+    main {
+        margin: 20px;
+    }
+
+    .about-box p {
+        margin: 10px 20px;
+        text-align: center;
+    }
+}
