@@ -2,7 +2,7 @@
 
 My personal portfolio. Features a simple index page built using HTML and CSS. 
 
-## Live version of the site [here](#)
+## Live version of the site [here](https://ingrid-skeide.github.io/portfolio/)
 
 Showcases three of my website projects that I have created through my studies at Noroff.
 
